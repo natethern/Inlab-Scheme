@@ -1,0 +1,10 @@
+
+Welcome to the source code distribution of Inlab-Scheme !
+
+Installation should be as easy as "make" and "make install",
+you may edit the Makefile to generate a stripped down version
+without imaging support.
+
+Have fun...
+Thomas Obermair <obermair@acm.org>
+
