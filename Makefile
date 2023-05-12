@@ -116,7 +116,7 @@ clean:
 		rm -f Anet.c 
 
 install:
-		install -c -g bin -o bin scheme /usr/local/bin/scheme
+		install scheme /usr/local/bin/inlabscheme
 		# ln /usr/local/bin/scheme /usr/local/bin/escheme
 
 release:	clean	
